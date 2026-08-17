@@ -11,8 +11,8 @@
     </head>
     <body>
 
-        <livewire:header.headerbar />
-        <livewire:header.searchbar />
+        <x-header.headerbar />
+        <x-header.searchbar />
 
         {{ $slot }}
 

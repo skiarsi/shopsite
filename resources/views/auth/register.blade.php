@@ -75,7 +75,7 @@
                 </div>
 
                 <div>
-                    <a href="{{ route('auth.google') }}" class="flex items-center justify-center gap-3 rounded-2xl border border-slate-200 bg-white px-4 py-3 text-sm font-medium text-slate-700 transition hover:bg-slate-50">
+                    <a href="{{ route('social.redirect', 'google') }}" class="flex items-center justify-center gap-3 rounded-2xl border border-slate-200 bg-white px-4 py-3 text-sm font-medium text-slate-700 transition hover:bg-slate-50">
                         <svg class="h-5 w-5" viewBox="0 0 24 24" fill="none" aria-hidden="true">
                             <path d="M22.5 12.236c0-.82-.074-1.61-.213-2.378H12v4.51h5.92c-.255 1.38-1.025 2.55-2.187 3.338v2.777h3.536c2.07-1.908 3.271-4.712 3.271-8.247z" fill="#4285F4"/>
                             <path d="M12 23c2.97 0 5.465-.98 7.287-2.66l-3.536-2.778c-.98.658-2.236 1.05-3.751 1.05-2.882 0-5.323-1.94-6.192-4.55H1.14v2.85C2.938 20.98 7.18 23 12 23z" fill="#34A853"/>

@@ -1,0 +1,12 @@
+{
+    "language" : "language",
+    
+    "login" : "Login/Register",
+    "links_home" : "Home",
+    "links_5star" : "5-Star Items",
+    "links_best_selling" : "Best-Selling Items",
+
+    "category" : "Category",
+
+    "ai-search" : "Ask AI"
+}
